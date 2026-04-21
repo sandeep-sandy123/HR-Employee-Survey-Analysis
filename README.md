@@ -17,5 +17,5 @@ Analysed 17,600+ employee survey responses across 21 departments to assess workf
 Family Justice Center flagged at 95.8% response rate as critical low-engagement area requiring HR intervention.
 
 ## Files
-- `HR_a.sql` — All SQL queries used in analysis
+- [`HR_a.sql` — All SQL queries used in analysis](https://github.com/sandeep-sandy123/HR-Employee-Survey-Analysis/blob/main/HR_a.sql)
 - `HR_Employee_Survey_Responses.csv` — Source dataset
